@@ -5,4 +5,4 @@
 **Arman**  
 Software Engineer • Reverse Engineering • Systems Research  
 
-If you enjoy this project, please consider giving it a **⭐ Star** on GitHub! 🌟  
+If this code was helpfull, please consider giving it a **⭐ Star** on GitHub! 🌟  
