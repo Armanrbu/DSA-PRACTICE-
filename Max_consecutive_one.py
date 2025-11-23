@@ -28,4 +28,17 @@ class Solution:
                 maxi = max(maxi, cnt)
                 cnt = 0
         return max(maxi, cnt)
-        
+
+
+"""
+Time and Space Complexity
+
+Time Complexity: O(n):
+The function traverses the array nums exactly once.
+All operations within the loop (if checks, increments, and max comparisons) are constant-time operations.
+Therefore, the time complexity scales linearly with the size of the input array.
+
+Space Complexity: O(1):
+The function uses a fixed amount of additional space regardless of the input size.
+Variables like cnt and maxi consume constant space.
+No additional data structures are used that scale with input size."""
